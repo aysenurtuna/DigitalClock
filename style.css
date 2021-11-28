@@ -1,0 +1,22 @@
+body{
+    font-family: 'Orbitron', sans-serif;
+    
+}
+h1{
+    color: #fff;
+}
+.time{
+    font-size: 50px;
+    border-radius: 15px;
+    margin-left: 8px;
+    padding-top: 15px;
+    text-align: center;
+    height: 110px;
+    width: 100px;
+}
+.timeSpace{
+    justify-content: center;
+}
+.date{
+    color: #fff;
+}
